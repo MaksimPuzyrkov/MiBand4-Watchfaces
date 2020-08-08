@@ -1,0 +1,20 @@
+-- Fonts --
+Graph:        'GraphikLC',Helvetica,sans-serif;
+Body:         'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+
+-- Colors --
+>red:         #ff3300
+
+orange:       #ff7854
+
+cyan:         #0d7fa3
+light-cyan:   #57abc2
+dark-cyan:    #124f63
+
+
+gray:         #a3aec0
+light-gray:   #124f63 (text)
+
+
+-- Size --
+Time-Big:     46x66
