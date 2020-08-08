@@ -34,12 +34,64 @@
         "ImageIndex": 1,
         "ImagesCount": 10
       }
+    },
+    "DelimiterImage": {
+      "X": 5,
+      "Y": 83,
+      "ImageIndex": 21
     }
   },
   "Date": {
     "MonthAndDay": {
       "TwoDigitsMonth": true,
       "TwoDigitsDay": true
+    }
+  },
+  "StepsProgress": {
+    "Linear": {
+      "StartImageIndex": 11,
+      "Segments": [
+        {
+          "X": 4,
+          "Y": 146
+        },
+        {
+          "X": 4,
+          "Y": 146
+        },
+        {
+          "X": 4,
+          "Y": 146
+        },
+        {
+          "X": 4,
+          "Y": 146
+        },
+        {
+          "X": 4,
+          "Y": 146
+        },
+        {
+          "X": 4,
+          "Y": 146
+        },
+        {
+          "X": 4,
+          "Y": 146
+        },
+        {
+          "X": 4,
+          "Y": 146
+        },
+        {
+          "X": 4,
+          "Y": 146
+        },
+        {
+          "X": 4,
+          "Y": 146
+        }
+      ]
     }
   }
 }
